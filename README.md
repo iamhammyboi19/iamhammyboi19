@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iamhammyboi19
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning nodejs
-- 💞️ I’m looking to collaborate on anything relating to html, css, JavaScript and python  
+- 🌱 I’m currently working on a resume builder web app inspired by resume.io
+- 💞️ I’m looking to collaborate on anything relating to html, css, JavaScript, node js and python  
 - 📫 How to reach me @iamhammyboy IG and @iamhammycurry1 Twitter
 
 <!---
