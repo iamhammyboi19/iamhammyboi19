@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamhammyboi19
 - 👀 I’m interested in programming
-- 🌱 I’m currently working on a resume builder web app inspired by resume.io
+- 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on anything relating to html, css, sass/scss, JavaScript, node js, express js, mongodb/mongoose, electron js and python  
 - 📫 How to reach me @iamhammyboy IG and @iamhammycurry1 Twitter
 
