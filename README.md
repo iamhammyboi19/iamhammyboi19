@@ -1,6 +1,6 @@
 #### 👋 Hi, I'm Ahmed - a Full Stack Software Engineer with a Systems Focus
 
-I hold a BSc in Computer Engineering from Near East University, Nicosia, TRNC. I specialize in low-level C++ systems programming, with hands-on experience building high-performance network applications using multi-threaded I/O, `kqueue`, and `epoll`. One of my key projects includes developing a Custom File Transfer Protocol from scratch - a deep dive into operating system-level socket handling and performance tuning.
+I hold a BSc in Computer Engineering from Near East University, Nicosia, TRNC. I have a strong interest in Full Stack Development, with practical experience using Node.js, SQL, NoSQL, HTML, CSS, and Reactjs. In addition, I specialize in low-level C++ systems programming and have hands-on experience developing high-performance network applications utilizing multi-threaded I/O, `kqueue`, and `epoll`. One of my key projects includes developing a Custom File Transfer Protocol from scratch - a deep dive into operating system-level socket handling and performance tuning.
 
 Currently, I’m expanding my expertise in **Machine Learning** and **Edge AI**, building a solid mathematical and engineering foundation to support future research in intelligent systems.
 
