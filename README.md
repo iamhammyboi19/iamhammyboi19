@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Ahmed - a Systems-Focused Software Engineer | C++ & Performance Engineering
 
-I hold a BSc in Computer Engineering from Near East University and will begin a MASc in Software Engineering at Memorial University of Newfoundland in Fall 2026. My primary focus is modern C++ systems programming, with strong interest in how software interacts with the operating system, CPU architecture, and memory hierarchy.
+I hold a BSc in Computer Engineering from Near East University. My primary focus is modern C++ systems programming, with strong interest in how software interacts with the operating system, CPU architecture, and memory hierarchy.
 
 I build performance-oriented software and networking systems. I am currently building a custom high-performance file transfer system in C++, implementing an event-driven architecture using epoll (Linux) and kqueue (macOS), with a custom binary protocol and multithreaded I/O model. 
 
