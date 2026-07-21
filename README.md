@@ -2,7 +2,7 @@
 
 ### Software Engineer | Full-Stack & Systems Engineering
 
-I enjoy building software across the entire stack—from modern React applications and Node.js backend services to high-performance networking systems in modern C++.
+I enjoy building software across the entire stack - from modern React applications and Node.js backend services to high-performance networking systems in modern C++.
 
 What motivates me most is understanding **how software works beneath the abstractions**. Whether I'm building a web application or a networking system, I like exploring the underlying architecture, performance characteristics, and design decisions that make software reliable and scalable.
 
