@@ -1,29 +1,62 @@
-### 👋 Hi, I'm Ahmed - a Systems-Focused Software Engineer | C++ & Performance Engineering
+## 👋 Hi, I'm Ahmed
 
-I hold a BSc in Computer Engineering from Near East University. My primary focus is modern C++ systems programming, with strong interest in how software interacts with the operating system, CPU architecture, and memory hierarchy.
+### Software Engineer | Full-Stack & Systems Engineering
 
-I build performance-oriented software and networking systems. I am currently building a custom high-performance file transfer system in C++, implementing an event-driven architecture using epoll (Linux) and kqueue (macOS), with a custom binary protocol and multithreaded I/O model. 
+I enjoy building software across the entire stack—from modern React applications and Node.js backend services to high-performance networking systems in modern C++.
 
-Through this work, I explore how user-space design decisions interact with kernel behavior, CPU cache coherence, and synchronization overhead in real systems.
+What motivates me most is understanding **how software works beneath the abstractions**. Whether I'm building a web application or a networking system, I like exploring the underlying architecture, performance characteristics, and design decisions that make software reliable and scalable.
 
-My engineering interests include:
-
+Recently I've been spending a significant amount of time studying topics such as:
+* React internals and reconciliation
+* Browser rendering, layout, and painting
+* CSS architecture and rendering performance
+* Node.js runtime and asynchronous I/O
+* Event-driven backend systems
+* Operating systems and concurrency
+* CPU cache behaviour and memory locality
 * High-performance networking
-* Event-driven system design
-* Concurrency and lock-free programming
-* Cache-aware data structures and memory locality
-* OS internals and runtime systems
+* Distributed systems
 
-While my primary focus is systems programming, I also have experience building backend services and full-stack applications using Node.js, PostgreSQL, MongoDB, and React.
 
-I am currently strengthening my data structures and algorithms foundation while continuing to build low-level systems projects such as parsers and networking tools.
+Alongside web development, I build systems software in modern C++. My primary systems project is a cross-platform file transfer system implementing:
+* event-driven networking with epoll (Linux) and kqueue (macOS)
+* custom binary protocol design
+* multithreaded task execution
+* scalable non-blocking I/O
+* streaming packet parsing
+* performance profiling and optimization
+
+
+### Technologies
+#### Frontend
+React • TypeScript • JavaScript • HTML • CSS
+
+#### Backend
+Node.js • Express • REST APIs • PostgreSQL • MongoDB
+
+#### Systems
+Modern C++ • Linux • epoll • kqueue • Multithreading • TCP/IP • WebSockets
+
+#### Cloud & Tools
+AWS • Docker • Git
 
 ---
-### 💻 Selected Projects
+### 💻 Featured Projects
 
-• Custom File Transfer System (C++)
-Cross-platform event-driven socket system built with epoll and kqueue, implementing non-blocking I/O, custom binary protocol design, and efficient connection handling.
+#### • High-Performance File Transfer System (C++)
+
+Cross-platform event-driven networking system built with modern C++, epoll, and kqueue, implementing asynchronous I/O, multithreading, and a custom binary protocol.
 https://github.com/iamhammyboi19/cpp-custom-socket-ftp-server_client
+
+#### • Apartment Review Platform
+
+A full-stack apartment review platform that allows users to discover locations using Google Places, explore them through Google Maps or Street View, and share reviews tied to real-world places.
+https://github.com/iamhammyboi19/Apartment-Review-Platform
+
+#### • Resume Builder Platform
+
+A full-stack resume builder inspired by Resume.io that enables users to create professional resumes through an interactive editing interface with real-time preview updates.
+https://github.com/iamhammyboi19/resumebuilderwebappnodejs
 
 
 
