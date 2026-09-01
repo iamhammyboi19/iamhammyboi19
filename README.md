@@ -16,6 +16,7 @@ Recently I've been spending a significant amount of time studying topics such as
 * CPU cache behaviour and memory locality
 * High-performance networking
 * Distributed systems
+* Cryptography and secure systems
 
 
 Alongside web development, I build systems software in modern C++. My primary systems project is a cross-platform file transfer system implementing:
